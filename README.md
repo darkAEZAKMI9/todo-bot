@@ -27,7 +27,7 @@ A simple and efficient Telegram bot for managing your tasks and to-do lists. Bui
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repository-url>
+   git clone <https://github.com/darkAEZAKMI9/todo-bot>
    cd telegram-todo-bot
    ```
 
@@ -109,7 +109,7 @@ CREATE TABLE tasks (
 
 1. **Клонирование репозитория:**
    ```bash
-   git clone <url-вашего-репозитория>
+   git clone <https://github.com/darkAEZAKMI9/todo-bot>
    cd telegram-todo-bot
    ```
 
